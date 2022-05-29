@@ -51,7 +51,7 @@ pip install pillow, opencv-python, scikit-image, sacred, pymongo
 - Clone this repo
 
 
-### Testing
+### run
 
 - A few example test images are included in the `./test_img` folder.
 - Please download trained model
@@ -74,7 +74,7 @@ The test results will be saved to the folder: `./output`.
 
 - Download the VOC2007 dataset and put it to "datasets/VOC2007/".
 - Download the LOL dataset and put it to "datasets/LOL".
-- Download the LOL dataset and put it to "datasets/CFFI".
+- We provide a valuable confocal fluorescence microscopy dataset CFFI in "datasets/CFFI".
 - Mixed fine tune dataset is combined whit the LOL dataset and our CFFI dataset.
 
 ### Training
