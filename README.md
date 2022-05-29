@@ -17,7 +17,7 @@ This repo provides simple testing codes, pretrained models and the network strat
 
 The complete framework of KindredNets is shown as follows,
 
-![](figures/Final-Fig1.tif)
+![](figures/fig1.jpg)
 
 # Implementation
 
