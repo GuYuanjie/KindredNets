@@ -16,7 +16,21 @@ This repo provides simple testing codes, pretrained models and the network strat
 ## BibTex
 
 ```
-@ARTICLE{#################################################}
+@article{Gu:22,
+author = {Yuanjie Gu and Zhibo Xiao and Wei Hou and Cheng Liu and Ying Jin and Shouyu Wang},
+journal = {Opt. Lett.},
+keywords = {Confocal laser scanning microscopy; Fluorescence; Image enhancement; Image processing; Neural networks; Nonlinear microscopy},
+number = {16},
+pages = {4175--4178},
+publisher = {Optica Publishing Group},
+title = {Deep low-excitation fluorescence imaging enhancement},
+volume = {47},
+month = {Aug},
+year = {2022},
+url = {https://opg.optica.org/ol/abstract.cfm?URI=ol-47-16-4175},
+doi = {10.1364/OL.466050},
+abstract = {In this work, to the best of our knowledge, we provide the first deep low-excitation fluorescence imaging enhancement solution to reconstruct optimized-excitation fluorescence images from captured low-excitation ones aimed at reducing photobleaching and phototoxicity due to strong excitation. In such a solution, a new framework named Kindred-Nets is designed aimed at improving the effective feature utilization rate; and additionally, a mixed fine-tuning tactic is employed to significantly reduce the required number of fluorescence images for training but still to increase the effective feature density. Proved in applications, the proposed solution can obtain optimized-excitation fluorescence images in high contrast and avoid the dimming effect due to negative optimization from the ineffective features on the neural networks. This work can be employed in fluorescence imaging with reduced excitation as well as extended to nonlinear optical microscopy especially in conditions with low output nonlinear signals. Furthermore, this work is open source available at https://github.com/GuYuanjie/KindredNets.},
+}
 ```
 
 ## Complete Architecture
