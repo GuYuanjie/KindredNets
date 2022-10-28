@@ -8,7 +8,6 @@ Email2: yuanjie@horizonflow.top
 
 By YUANJIE GU,† ZHIBO XIAO,† WEI HOU, CHENG LIU, YING JIN, AND SHOUYU WANG*
 
-This work is submitted to arXiv and Optica. Good luck to us.
 This repo provides simple testing codes, pretrained models and the network strategy demo.
 
 
